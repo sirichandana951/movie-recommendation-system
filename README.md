@@ -19,7 +19,7 @@ Welcome to the Movie Recommendation System! This project uses machine learning t
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/movie-recommendation-system.git
+git clone https://github.com/sirichandana951/movie-recommendation-system.git
 cd movie-recommendation-system
 pip install -r requirements.txt
 
